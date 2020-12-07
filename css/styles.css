@@ -43,7 +43,7 @@ h1 {
   letter-spacing: 10px;
   text-transform: uppercase;
   background: url(/images/abstract.jpg);
-  -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
   animation: animate 10s linear infinite;
   transition: 1.1s; }

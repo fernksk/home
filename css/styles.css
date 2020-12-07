@@ -34,10 +34,6 @@ body {
 .nav-link:hover {
   border-bottom-color: #f0e67d; }
 
-.nav-item.active {
-  color: #fff;
-  border-bottom-color: #fff; }
-
 h1 {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 150px;
@@ -90,11 +86,11 @@ h2 {
   h1 {
     text-align: center;
     margin-left: 8px;
-    font-size: 60px; }
+    font-size: 40px; }
   h2 {
     text-align: center;
     margin-left: 5px;
-    font-size: 40px; }
+    font-size: 35px; }
   .nav-link {
     font-size: 15px;
     display: inline-block; }

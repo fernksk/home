@@ -15,7 +15,7 @@ body{
   background-color: #2c2c2c;
 }
 
-.navbar-dark .navbar-nav .active>.nav-link,{
+.navbar-dark .navbar-nav .active>.nav-link{
   color: #f0e67d;
 }
 
@@ -45,12 +45,6 @@ body{
 .nav-link:hover{
   border-bottom-color: #f0e67d;
 }
-
-.nav-item.active{
-  color: #fff;
- border-bottom-color: #fff;
-}
-
 
 h1{
   font-family: 'Roboto Condensed', sans-serif;
@@ -121,12 +115,12 @@ h2{
   h1{
     text-align: center;
     margin-left: 8px;
-    font-size: 60px;
+    font-size: 40px;
   }
   h2{
     text-align: center;
     margin-left: 5px;
-    font-size: 40px;
+    font-size: 35px;
   }
   .nav-link {
     font-size: 15px;
